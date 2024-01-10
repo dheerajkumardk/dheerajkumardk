@@ -6,6 +6,13 @@
 [![Twitter](https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png)](https://twitter.com/imdheeraj28)
 [![Medium](https://img.icons8.com/?size=64&id=sqYv6jHqkMo4&format=png)](https://medium.com/@imdheeraj28)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajkumardk&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,c,nix" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dheerajkumardk&show_icons=true&count_private=true" />
+</a>
+<br></br><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 ## About Me
