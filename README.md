@@ -3,7 +3,7 @@
 ![Dheeraj Kumar](https://azure-annual-planarian-109.mypinata.cloud/ipfs/QmQMzbr8UAASJp5K1tV9j1zzax94MDvXuZyTWt9yEatVhq)
 
 [![LinkedIn](https://img.icons8.com/?size=64&id=XRDimtpq5vCY&format=png)](https://www.linkedin.com/in/dheeraj-kumar-yaduwanshi/)
-[![Twitter](https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png)](https://twitter.com/imdheeraj28)
+[![Twitter](https://img.icons8.com/?size=64&id=bG29Ckcdp6YP&format=png)](https://x.com/imdheeraj28)
 [![Medium](https://img.icons8.com/?size=64&id=sqYv6jHqkMo4&format=png)](https://medium.com/@imdheeraj28)
 
 ### About Me
@@ -75,18 +75,18 @@ Feel free to check some of the most lovable stories penned by me:
 
 #### Blockchain-related Articles
 
-[Introducing Blockchain Oracle to you!](https://medium.com/coinmonks/introducing-blockchain-oracle-to-you-52da65725502) <br>
-[Everything about API3](https://medium.com/coinmonks/everything-about-api3-c0a5dd2c75ba) <br>
-[A dive into Substrate’s Consensus Mechanism](https://medium.com/coinmonks/a-dive-into-substrates-consensus-mechanism-30366a4a4213) <br>
-[Let’s Get Foundry](https://medium.com/coinmonks/lets-get-foundry-05cac67b2632) <br>
-[Writing Smart Contract using Huff](https://medium.com/coinmonks/writing-smart-constract-using-huff-ced6a094c124) <br>
-[Hardhat Configuration](https://medium.com/coinmonks/hardhat-configuration-c96415d4fcba) <br>
-[How to Setup Hardhat and compile, test and deploy contracts using it ?](https://medium.com/@imdheeraj28/how-to-setup-hardhat-and-compile-test-and-deploy-contracts-using-it-30b1d57b4602)
+- [Introducing Blockchain Oracle to you!](https://medium.com/coinmonks/introducing-blockchain-oracle-to-you-52da65725502) <br>
+- [Everything about API3](https://medium.com/coinmonks/everything-about-api3-c0a5dd2c75ba) <br>
+- [A dive into Substrate’s Consensus Mechanism](https://medium.com/coinmonks/a-dive-into-substrates-consensus-mechanism-30366a4a4213) <br>
+- [Let’s Get Foundry](https://medium.com/coinmonks/lets-get-foundry-05cac67b2632) <br>
+- [Writing Smart Contract using Huff](https://medium.com/coinmonks/writing-smart-constract-using-huff-ced6a094c124) <br>
+- [Hardhat Configuration](https://medium.com/coinmonks/hardhat-configuration-c96415d4fcba) <br>
+- [How to Setup Hardhat and compile, test and deploy contracts using it ?](https://medium.com/@imdheeraj28/how-to-setup-hardhat-and-compile-test-and-deploy-contracts-using-it-30b1d57b4602)
 
 #### Quantitative Finance Articles
 
-[Understanding Derivatives -I: The Case of Lakhan and His Sugarcane Harvest](https://medium.com/@imdheeraj28/understanding-derivatives-i-the-case-of-lakhan-and-his-sugarcane-harvest-62370c2f94e9) <br>
-[Path-Dependent Options and Monte-Carlo Simulations](https://medium.com/@imdheeraj28/path-dependent-options-and-monte-carlo-simulations-be16bfcdc424)
+- [Understanding Derivatives -I: The Case of Lakhan and His Sugarcane Harvest](https://medium.com/@imdheeraj28/understanding-derivatives-i-the-case-of-lakhan-and-his-sugarcane-harvest-62370c2f94e9) <br>
+- [Path-Dependent Options and Monte-Carlo Simulations](https://medium.com/@imdheeraj28/path-dependent-options-and-monte-carlo-simulations-be16bfcdc424)
 
 <!--
 **dheerajkumardk/dheerajkumardk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
