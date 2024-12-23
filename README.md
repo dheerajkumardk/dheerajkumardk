@@ -15,43 +15,71 @@
 <br></br><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
-## About Me
-A passionate software developer with a deep-rooted love for technology and continuous learning. Hailing from the heart of India, Madhya Pradesh, I graduated from the Indore Institute of Science and Technology with a degree in Computer Science. With over 1+ years of professional experience, my expertise lies in Decentralized Finance (DeFi) and Blockchain Development, particularly in public EVM-based chains like Ethereum, Binance Smart Chain, Tron, Layer 2 solutions such as Polygon, and Enterprise Blockchain like Xinfin.
+### About Me
 
-I shine in smart contract development, boasting hands-on experience in writing and auditing smart contracts. Proficient in tools like Hardhat for deployment and testing, I've seamlessly integrated smart contracts with front-end applications using ethers.js and possess familiarity with React.js.
+Hello! 👋 I'm Dheeraj, a passionate blockchain developer and smart contract auditor with a love for continuous learning and innovation. My journey in the Web3 space has been fueled by curiosity and the drive to contribute to decentralized ecosystems. 
 
-Beyond professional endeavors, I'm committed to nurturing the next generation of Blockchain enthusiasts, having mentored and taught over 100 students. Currently seeking freelancing opportunities in DeFi, Blockchain Development, NFTs, ERC tokens, and smart contract auditing, I'm open to collaboration and discussions.
+### Expertise:
+- **Blockchain Development:** Experienced in EVM-based public chains like Ethereum, BSC, and Polygon. Proficient in smart contract development using Solidity with a focus on DeFi, NFTs, and token standards (ERC20, ERC721, ERC1155).
 
-In the ever-evolving Blockchain landscape, I'm not only establishing a vibrant web3 community in Indore but also expanding my skills to include Rust, Substrate Parachains, and TypeScript. Recently, I undertook a project involving token migration from Ethereum to a Substrate-based Relaychain, showcasing my versatility.
+- **Smart Contract Auditing:** Practicing smart contract security and participating in audit contests on platforms like CodeHawks. Skilled in identifying vulnerabilities and ensuring robustness.
+Experienced with advanced tools like Certora for formal verification, Halmos for runtime monitoring, and implementing fuzzing tests for comprehensive security coverage.
 
-Now, in a new chapter of my journey, I'm diving into the captivating realm of quantitative finance through a dedicated program at WQU. My interests span across technology, finance, mathematics, spirituality, politics, and travel – a jumbo pack of diverse passions!
+- **Tools & Frameworks:** Hands-on with Hardhat, Foundry, and ethers.js for development, testing, and integration.
 
-Excited to connect, learn, and share experiences with this vibrant community. Thanks for having me here!
+### Recent Ventures:
+- **Freelance Projects:** Worked on DAOs, flash loan protocols, token swaps, stablecoin systems, and Uniswap v3 integration.
 
-## Tech stack
-[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
-[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
-[![IPFS](https://img.shields.io/badge/-IPFS-23bbad?style=for-the-badge&logo=ipfs&logoColor=white)]()
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
-[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
-[![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- **Learning & Teaching:** Expanding expertise in blockchain security and contributing to the ecosystem through mentorship and knowledge sharing.
+
+- **Quantitative Finance:** Exploring the intersection of blockchain and finance through a master's program at WQU, focusing on financial engineering.
+
+### Beyond Work:
+When not immersed in code, I delve into spirituality, travel, and exploring political and economic systems. Let's build, learn, and innovate together in this incredible Web3 journey!
+
+Feel free to connect and collaborate – always open to exciting projects and discussions! 🚀
+
+### Tech Stack
+
+#### Core Blockchain Skills
+🪙 Ethereum, BNB Chain, Polygon  
+📜 Token Standards: ERC20, ERC721, ERC1155  
+💱 Decentralized Finance (DeFi)
+
+#### Programming Languages
+💻 Solidity  
+🖍️ JavaScript, TypeScript, (NodeJS) <br>
+🐍 Python  
+
+#### Development Frameworks & Tools
+⚒️ Hardhat, Truffle, Foundry  
+🧪 Remix, Ganache, Web3.js, ethers.js <br>
+🔐 Wallet integrations
+
+#### Testing and Debugging
+✔️ Unit and integration testing <br>
+🛡️ Slither and Aderyn  
+🔄 Fuzz and Invariant Testing <br>
+🛠️ Formal Verification: Halmos and Certora
 
 ## Projects
 
 
 ## Blog Posts
-Feel free to check some of the most lovable stories from mine blog
+Feel free to check some of the most lovable stories penned by me:
 
-[Hardhat Configuration](https://medium.com/coinmonks/hardhat-configuration-c96415d4fcba)  
+#### Blockchain-related Articles
+[Introducing Blockchain Oracle to you!](https://medium.com/coinmonks/introducing-blockchain-oracle-to-you-52da65725502) <br>
+[Everything about API3](https://medium.com/coinmonks/everything-about-api3-c0a5dd2c75ba) <br>
+[A dive into Substrate’s Consensus Mechanism](https://medium.com/coinmonks/a-dive-into-substrates-consensus-mechanism-30366a4a4213) <br>
+[Let’s Get Foundry](https://medium.com/coinmonks/lets-get-foundry-05cac67b2632) <br>
+[Writing Smart Contract using Huff](https://medium.com/coinmonks/writing-smart-constract-using-huff-ced6a094c124) <br>
+[Hardhat Configuration](https://medium.com/coinmonks/hardhat-configuration-c96415d4fcba)  <br>
 [How to Setup Hardhat and compile, test and deploy contracts using it ?](https://medium.com/@imdheeraj28/how-to-setup-hardhat-and-compile-test-and-deploy-contracts-using-it-30b1d57b4602)
+
+#### Quantitative Finance Articles
+[Understanding Derivatives -I: The Case of Lakhan and His Sugarcane Harvest](https://medium.com/@imdheeraj28/understanding-derivatives-i-the-case-of-lakhan-and-his-sugarcane-harvest-62370c2f94e9) <br>
+[Path-Dependent Options and Monte-Carlo Simulations](https://medium.com/@imdheeraj28/path-dependent-options-and-monte-carlo-simulations-be16bfcdc424)
 
 
 
